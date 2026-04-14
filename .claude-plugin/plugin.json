@@ -1,0 +1,9 @@
+{
+  "name": "backend-resume-reviewer-agent",
+  "version": "1.0.0",
+  "description": "Claude Code agent plugin - Spring backend resume reviewer",
+  "author": {
+    "name": "JeongUk Park",
+    "url": "https://github.com/jeongph"
+  }
+}
